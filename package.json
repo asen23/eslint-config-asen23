@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-asen23",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "asen23 eslint basic config",
   "main": "index.cjs",
   "repository": {
@@ -20,7 +20,7 @@
   },
   "peerDependencies": {
     "eslint": ">= 8",
-    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-prettier": ">= 4",
     "prettier": ">= 2"
   }
 }
