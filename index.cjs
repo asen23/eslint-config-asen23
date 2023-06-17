@@ -12,6 +12,7 @@ module.exports = {
         "useTabs": false,
         "bracketSpacing": true,
         "semi": true,
+        "endOfLine": "lf",
       },
     ],
   },
