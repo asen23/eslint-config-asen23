@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-asen23",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "asen23 eslint basic config",
   "main": "index.cjs",
   "repository": {
